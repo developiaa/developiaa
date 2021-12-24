@@ -33,6 +33,8 @@ https://simpleicons.org/
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-round&logo=Jenkins&logoColor=white"/></a>&nbsp;
 
 ### ETC
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-round&logo=React&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-round&logo=React&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-round&logo=TensorFlow&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-round&logo=Keras&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat-round&logo=Hyperledger&logoColor=white"/></a>&nbsp;
