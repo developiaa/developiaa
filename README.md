@@ -44,5 +44,6 @@ https://simpleicons.org/
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-round&logo=PyCharm&logoColor=white"/></a>&nbsp;
 
 
-
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=developiaa&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+-->
